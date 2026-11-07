@@ -1,0 +1,10 @@
+shelter_id,zone,priority,deadline,blankets,water_cases,radios
+SH-201,North,1,08:30,7,10,2
+SH-202,South,1,08:45,8,8,3
+SH-203,North,2,09:00,6,7,2
+SH-204,South,2,09:15,3,2,2
+SH-205,North,3,09:30,2,1,1
+SH-206,North,1,09:40,1,1,0
+SH-206,South,2,09:50,2,2,1
+SH-207,North,4,10:00,1,1,1
+BROKEN,South,2,10:10,3
