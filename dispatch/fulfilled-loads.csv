@@ -1,0 +1,5 @@
+shelter_id,depot_id,blankets,water_cases,radios
+SH-201,D-A,7,10,2
+SH-204,D-B,3,2,2
+SH-205,D-A,1,1,0
+SH-205,D-C,1,0,1
